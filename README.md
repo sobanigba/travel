@@ -11,7 +11,7 @@ Pages
 It shows:
 
 - Multiple `.md` files linked together
-- Lists, tables, images, code blocks, checklists
+- Lists, tables
 - Navigation between pages
 
 
