@@ -6,8 +6,7 @@ Quick look at three dream spots.
 
 ## Paris
 
-![Paris](images/paris-sunset.jpg)
-
+![Paris]
 - Eiffel Tower  
 - Museums  
 - Cafés  
